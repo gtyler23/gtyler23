@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Drafting a Professional Statement](https://github.com)
+- [Drafting a Professional Statement](https://github.com/gtyler23/DraftingProfessionalStatement)
 - [Conducting a Security Audit](https://www.)
 - [Analyzing Network Structure and Security](https://www.)
 - [Using Linux Commands to Manage File Permissions](https://)
