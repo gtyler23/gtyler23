@@ -10,6 +10,7 @@
 - [Identifying Vulnerabilities of a Small Business](https://)
 - [Documenting Incidents with an Incident Handler’s Journal](https://)
 - [Importing and Parsing a Text File in a Security-Related Scenario](https://)
+- [Updating a file through a Python Algorithm](https://)
 
 <h2>:page_facing_up: Certifications, Trainings & Education</h2>
 
