@@ -6,7 +6,7 @@
 - [Conducting a Security Audit](https://github.com/gtyler23/ConductingSecurityAudit)
 - [Analyzing Network Structure and Security](https://github.com/gtyler23/AnalyzingNetworkStructureAndSecurity)
 - [Using Linux Commands to Manage File Permissions](https://github.com/gtyler23/UsingLinuxCommandsToManageFilePermissions)
-- [Applying Filters to SQL Queries](https://)
+- [Applying Filters to SQL Queries](https://github.com/gtyler23/ApplyingFiltersToSQL_Queries)
 - [Identifying Vulnerabilities of a Small Business](https://)
 - [Documenting Incidents with an Incident Handler’s Journal](https://github.com/gtyler23/DocumentingIncidentsWithIncidentHandlerJournal)
 - [Importing and Parsing a Text File in a Security-Related Scenario](https://)
