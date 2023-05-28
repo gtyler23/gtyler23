@@ -8,7 +8,7 @@
 - [Using Linux Commands to Manage File Permissions](https://github.com/gtyler23/UsingLinuxCommandsToManageFilePermissions)
 - [Applying Filters to SQL Queries](https://)
 - [Identifying Vulnerabilities of a Small Business](https://)
-- [Documenting Incidents with an Incident Handler’s Journal](https://)
+- [Documenting Incidents with an Incident Handler’s Journal](https://github.com/gtyler23/DocumentingIncidentsWithIncidentHandlerJournal)
 - [Importing and Parsing a Text File in a Security-Related Scenario](https://)
 - [Updating a file through a Python Algorithm](https://github.com/gtyler23/UpdateFileThroughPythonAlgorithm/tree/main)
 
