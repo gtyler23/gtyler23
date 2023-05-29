@@ -14,12 +14,12 @@
 <h2>:page_facing_up: Certifications, Trainings & Education</h2>
 
 - Associate of Science in Computer Studies
-- Google Cybersecurity Professional
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- Qualys Vulnerability Management Foundation
-- U.S. Coast Guard Information Systems Technician
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ Certification
+- CompTIA Network+ Certification
+- CompTIA A+ Certification
+- Qualys Vulnerability Management Foundation Certificate
+- U.S. Coast Guard Information Systems Technician Certification
 - Master of Science in Management (MSM)
 - Bachelor of Science in Psychology
 - Associate of Arts in General Studies
