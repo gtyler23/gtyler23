@@ -9,7 +9,6 @@
 - [Applying Filters to SQL Queries](https://github.com/gtyler23/ApplyingFiltersToSQL_Queries)
 - [Identifying Vulnerabilities of a Small Business](https://github.com/gtyler23/IdentifyingVulnerabilitiesForSmallBusiness)
 - [Documenting Incidents with an Incident Handler’s Journal](https://github.com/gtyler23/DocumentingIncidentsWithIncidentHandlerJournal)
-- [Importing and Parsing a Text File in a Security-Related Scenario](https://)
 - [Updating a file through a Python Algorithm](https://github.com/gtyler23/UpdateFileThroughPythonAlgorithm/tree/main)
 
 <h2>:page_facing_up: Certifications, Trainings & Education</h2>
