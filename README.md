@@ -13,18 +13,18 @@
 
 <h2>:page_facing_up: Certifications, Trainings & Education</h2>
 
-- [Associate of Science in Computer Studies](https://)
-- [Google Cybersecurity Professional](https://www.)
-- [CompTIA Security+](https://)
-- [CompTIA Network+](https://)
-- [CompTIA A+](https://)
-- [Qualys Vulnerability Management Foundation](https://)
-- [U.S. Coast Guard Information Systems Technician](https://)
-- [Master of Science in Management (MSM)](https://)
-- [Bachelor of Science in Psychology](https://)
-- [Associate of Arts in General Studies](https://)
-- [Japanese Studies/Language Certificate](https://)
-- [Clinical Mental Healthcare Certificate](https://)
+- Associate of Science in Computer Studies
+- Google Cybersecurity Professional
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- Qualys Vulnerability Management Foundation
+- U.S. Coast Guard Information Systems Technician
+- Master of Science in Management (MSM)
+- Bachelor of Science in Psychology
+- Associate of Arts in General Studies
+- Japanese Studies/Language Certificate
+- Clinical Mental Healthcare Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
