@@ -26,6 +26,7 @@
 - Associate of Arts in General Studies
 - Japanese Studies/Language Certificate
 - Clinical Mental Healthcare Certificate
+- SECRET Clearance
 
 <h2> 🤳 Connect with me:</h2>
 
