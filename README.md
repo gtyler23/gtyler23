@@ -1,5 +1,5 @@
 <h1>Hi, I'm Gary! 
-<h1>Motivated Aspiring Cybersecurity Professional</h1>
+<h1>Motivated Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
