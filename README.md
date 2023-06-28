@@ -16,6 +16,7 @@
 
 - Associate of Science in Computer Studies
 - Google Cybersecurity Professional Certificate
+- CompTIA CySA+ Certification
 - CompTIA Security+ Certification
 - CompTIA Network+ Certification
 - CompTIA A+ Certification
