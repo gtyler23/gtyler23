@@ -16,6 +16,7 @@
 
 - Associate of Science in Computer Studies
 - Google Cybersecurity Professional Certificate
+- AWS Certified Cloud Practitioner
 - CompTIA CySA+ Certification
 - CompTIA Security+ Certification
 - CompTIA Network+ Certification
